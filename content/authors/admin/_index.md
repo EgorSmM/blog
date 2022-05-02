@@ -1,39 +1,33 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Смирнов-Мальцев Егор Дмитриевич
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студент
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Российский универиситет "Дружбы Народов"
+    url: https://www.rudn.ru
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Мои научные интересы находятся в областях компьютерной и полиномиальной алгебры.
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+Интересы:
+  - Размерности диаграмм Юнга
+  - Поиск кратчайшего пути во взвешенных графах
+  - C++
 
 # Education to show in About widget
-education:
+Образование:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Среднее образование
+      institution: Школа №33 им. Карла Маркса, г. Ярославль
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
