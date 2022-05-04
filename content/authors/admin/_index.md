@@ -17,13 +17,13 @@ organizations:
 bio: Мои научные интересы находятся в областях компьютерной и полиномиальной алгебры.
 
 # Interests to show in About widget
-Интересы:
+interests:
   - Размерности диаграмм Юнга
   - Поиск кратчайшего пути во взвешенных графах
   - C++
 
 # Education to show in About widget
-Образование:
+education:
   courses:
     - course: Среднее образование
       institution: Школа №33 им. Карла Маркса, г. Ярославль
