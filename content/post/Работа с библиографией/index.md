@@ -9,7 +9,7 @@ summary: Ты в армии служил?
 projects: []
 
 # Date published
-date: '2022-05-13T16:00:00Z'
+date: '2022-05-16T16:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
